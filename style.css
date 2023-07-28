@@ -1,0 +1,21 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-color: rgb(167, 241, 241);
+  }
+  
+  .music-player {
+    text-align: center;
+  }
+  
+  .controls {
+    margin-top: 20px;
+  }
+  
+  input[type="range"] {
+    width: 150px;
+  }
+  
